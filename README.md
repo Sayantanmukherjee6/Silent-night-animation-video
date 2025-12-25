@@ -40,7 +40,7 @@ Here are some of the prompt I used to generate this images:
 ![IMovie](https://github.com/Sayantanmukherjee6/Silent-night-animation-video/blob/main/imovie.png)
 
 # Time took create this entire thing
-- Around two week. The problem was with good workflow, creating character lora, I2V extend workflow and testing took longer as I was using RTX 3060 and obviously I had to juggle between my job, family and this work 😞.
+- Around two week. The problem was with good workflow, creating character lora, I2V extend workflow and testing took longer as I was using RTX 3060 and obviously I had to juggle between my job, family and this project 😞.
 - After I had all my workflows ready, it took around 1 and half day for generating this video. I was mainly having issue with story boarding and consistency. I used RTX 5090 to speed things up.
 
 # References and Inspiration
